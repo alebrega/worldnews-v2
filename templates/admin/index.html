@@ -1,0 +1,74 @@
+{% extends "base.html" %} {% block title %} Add an article {% endblock %}
+{%block header %}
+<script>
+  function change(id, text) {
+    document.getElementById(id).value = text;
+  }
+</script>
+
+{% endblock %} {%block content %}
+<div class="container-fluid">
+  <div class="row justify-content-md-center" style="padding-top: 10%;">
+    <div class="col-sm-12 col-md-6">
+      <h1>Add article</h1>
+      <form action="/" method="POST">
+        <div class="form-group">
+          <div class="input-group mb-3">
+            <div class="input-group-prepend">
+              <span class="input-group-text" id="basic-addon1"
+                >Article URL</span
+              >
+            </div>
+            <input
+              name="url"
+              type="text"
+              class="form-control"
+              placeholder="URL"
+              aria-describedby="basic-addon1"
+            />
+          </div>
+        </div>
+        <div class="form-group">
+          <div class="input-group mb-3">
+            <div class="input-group-prepend">
+              <span class="input-group-text" id="basic-addon1"
+                >How old is the content?</span
+              >
+            </div>
+            <input
+              name="old_days"
+              type="text"
+              class="form-control"
+              placeholder="Old days"
+              aria-describedby="basic-addon1"
+            />
+          </div>
+        </div>
+        <div class="form-group">
+          <div class="input-group mb-3">
+            <div class="input-group-prepend">
+              <span class="input-group-text" id="basic-addon1"
+                >Language to translate</span
+              >
+            </div>
+            <select name="language" id="inputState" class="form-control">
+              <option value="en" selected="">English</option>
+              <option value="es">Spanish</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-group">
+          <button
+            id="submit_btn"
+            onclick="change('submit_btn','Loading...');"
+            type="submit"
+            class="mb-2 btn btn-primary mr-2 btn-lg"
+          >
+            Submit
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+{% endblock %}

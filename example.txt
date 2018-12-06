@@ -1,0 +1,78 @@
+Although there is no global consensus on the regulation of cryptocurrencies, the increase in their use among a growing public is forcing governments around the world to turn their attention to the issue.
+
+This interest in the movements of the cryptocurrencies ecosystem adds up to an increasing number of regulatory authorities from Latin American countries in recent years, despite the regulatory lag seen earlier, compared to nations from other continents. Let’s see what has been raised about it so far:
+
+The most receptive countries
+The first country in the region to establish a legal framework for the use of cryptocurrencies and the operation of exchange bureaus is Mexico. An achievement achieved through the Fintech law that has just been delivered to public consultation.
+
+The Bank of Mexico established that, as of July 30, the cryptocurrency exchange houses must comply with new regulations corresponding to electronic bank transfers, according to what this new law establishes. Thus, in addition to recognizing cryptocurrencies as virtual assets, it allows them to be handled for sending remittances and establishes that the Bank of Mexico is the tutelary body of the crypto exchange bureaus. However, some of the provisions of this law, which were revealed at the beginning of September, could discourage operations with crypto actives.
+
+Venezuela, for its part, is one of the Latin American nations that has most attracted attention with respect to the adoption of cryptocurrencies recently. However, the relationship between Government and Bitcoin has had drastic ups and downs; given that, after a period of persecutions to the practice of cryptocurrency mining, the president announced, at the end of 2017, that Venezuela would launch its own cryptocurrency, the petro, and granted a legal status to the sector.
+
+Since then, they have escalated a series of government announcements so far in 2018, which include the creation of a supervisory body, the certification of 16 exchange houses and the establishment of the petro as a new unit of account. In addition, the value of the country’s official currency after the recent change of the monetary cone, the sovereign bolivar (BsS), is anchored to that of the national cryptocurrency.
+
+All this recognition would look like one of the best indications for the advancement of the ecosystem in the South American country if it were not surrounded by opacities and contradictions related to the lack of transparency and international recognition of the cryptocurrency.
+
+Meanwhile, the Venezuelan population goes to the cryptocurrency as a reserve of value, in order to counteract a serious inflationary crisis and the devaluation of its currency. This reaction has resulted in the aforementioned country becoming one of the largest volumes of Bitcoin exchanges in the region.
+
+Argentina is another country with advances in regulatory matters, despite the fact that cryptocurrencies do not yet have legal recognition. However, this does not prevent the growth of its adoption as a form of payment and as a reserve of value among the population.
+
+In addition, the Central Bank of the South American country is interested in learning more about cryptocurrencies and blockchain, as revealed by a recent call from the financial institution to book providers.
+
+The capital, Buenos Aires, is considered to be “the Bitcoin capital of Latin America” thanks to the growing adoption of the use of bitcoin (BTC) and initiatives that have emerged to educate the population about it, such as the NGO Bitcoin Argentina and Bitcoin Day.
+
+On the other hand, there is also a proposal to the National Congress to supervise and impose tax obligations on operations with cryptocurrencies. A piece of news that was not received with pleasure by the Argentine bitcoiners, but it is a first step that can promote the establishment of a legal framework.
+
+The most neutral governments
+In Central America, Costa Rica stands out, where some provisions of the legislation provide the possibility for companies to pay their workers part of the salary with other types of assets, in addition to legal tender money, provided that the parties agree. This has led some experts to consider that cryptocurrencies can fall into this category, which would allow entrepreneurs to pay part of the salaries with crypto-active agents.
+
+Another point in favour of cryptocurrencies in this Central American country is that, since September 2017, it has its first bitcoin ATM and cryptocurrencies are accepted in many places as a means of payment.
+
+In spite of the above, in October of last year, the Central Bank of Costa Rica issued a decree in which it established that cryptocurrencies are outside the national banking system. The entity noted that carrying out any type of commercial transaction with this type of currency is a “limited option” in the country, warning those who use them to assume the associated risks. Even so, there is no explicit prohibition on the use of cryptocurrencies.
+
+For its part, the Panamanian State has also been involved with emerging technologies, a decision that prompted the opening of an incubator for financial technology products and has enabled the Central Bank of Panama to study the application of DLT (Distributed Accounting Technology).
+
+However, there is no clear government pronouncement, although they do not seem to have an unfavourable position either. Currently, there is a proposal for a law to modernize the financial system and adopt new financial technologies, such as cryptocurrencies, but it has not yet been debated in the National Assembly.
+
+The neutrality of Nicaragua has been such that until now no type of opinion, for or against, has been made public about the use of cryptocurrencies. The nearby Honduras has already carried out tests with blockchain technology at the beginning of 2015, although as regards cryptocurrency, the government warns of its risks without prohibiting them.
+
+Guatemala is another country where there is no legal norm that regulates the use of cryptographic currencies. The president of the Central Bank of Guatemala declared that they can not be considered as legal tender, but there is no formal statement in this regard, so it is assumed that they can continue to be used in Guatemalan territory without major inconveniences.
+
+Further to the south of the region, Peruvian regulatory authorities, such as the Financial Superintendency, have been monitoring the growing crypto-active market and recommend using them after having been well informed, as in Peru, cryptocurrencies are neither regulated nor protected. by the law.
+
+Something similar happens in Paraguay, where the Secretariat for the Prevention of Money Laundering or Goods warns about the risks of investing in cryptocurrencies but indicates that it is not against innovation. Meanwhile, in Cuba, where there have been transactions with bitcoin, but nothing has been said about its legality.
+
+Ambivalent positions
+Chile is one of the countries with the highest levels of adoption. However, there is no regulation. The government has not stated a clear position, noting only that “it must study and better understand the ecosystem” and has also raised a debate on the subject in which several sectors participate.
+
+Meanwhile, the Superintendency of Banks and Financial Institutions has maintained a restrictive position, by supporting the closing of the bank accounts of several exchange houses at the beginning of this year; a battle that the exchange houses won and that perhaps opens the doors for further development in the southern country.
+
+In Brazil, the population shows a growing interest in cryptocurrencies. However, as in Chile, several exchange houses saw their accounts blocked in banks. In addition to this, the Securities Commission prohibited investment funds from carrying out transactions with bitcoin or other cryptocurrencies.
+
+In the midst of these litigations, the president of the Central Bank of Brazil maintains a critical position in front of the cryptocurrencies. Last December he called them a bubble, although 4 months later he said that “Bitcoin is a risky asset with innovative technology”. His attitude seems to be more receptive to the use of blockchain than to cryptocurrencies.
+
+Also, in Colombia, the attitude of Colombian regulators has been more open to the blockchain, in relation to cryptocurrencies. The Central Bank of this country also declares that digital money cannot be legal tender. The idea contrasts with what was said by President Iván Duque, who indicated that he may use the cryptocurrency technology in his government. On August 29, the president proposed the exemption of payment of income tax to all startups related to cryptocurrencies and blockchain.
+
+Recently, the Buddha exchange house ceased its operations in Colombia, after having exhausted “all instances of dialogue” with the regulatory authorities, although these say that cryptographic currencies are not prohibited; since, in fact, there has not been an official pronouncement in this regard. A contradictory behaviour that has manifested itself among many governments worldwide.
+
+Uruguay has shown an apparently receptive attitude towards the use of cryptocurrencies. Despite the fact that the establishment of a regulatory framework is not in the government plans, recently the Uruguayan Chamber of Fintech announced the creation of the Commission of Cryptocurrency that will be responsible for drafting a legal framework.
+
+In contrast, the president of the Central Bank of Uruguay raises doubts about the apparent affinity of the government with the crypto-active, after affirming, last April, that bitcoin is not competition for national currencies. A perception that could complicate the legal status of cryptocurrencies in this nation, when the time comes to take positions.
+
+In El Salvador, although there are exchange services, the authorities have declared that there is no legal framework adjusted to the use of cryptocurrencies and so far they can be used freely. On the other hand, the Central American country established restrictions regarding the Initial Currency Offers (ICO), which were prohibited in a communiqué issued by the Central Bank last year.
+
+In the Caribbean, the Dominican Republic stands out due to the wide acceptance of cryptoactives by the public, but the government, through its Central Bank, stated that it does not accept them as legal tender and maintains a position contrary to its use, without prohibiting them from all.
+
+The most restrictive areas
+Bolivia and Ecuador are the countries with the most bans on operations with cryptocurrencies in Latin America, given the strict legislation in force regarding this activity.
+
+Bolivia banned the use of bitcoin on May 6, 2014. With this, it became the first nation in all of Latin America to banish cryptocurrencies and joined the list of countries in the world that have done the same. Since then, making transactions with cryptocurrencies or any transaction referring to them is illegal in Bolivia.
+
+Ecuador, on the other hand, has no control over its monetary policy (since the dollar is used as currency). This has made it impossible to establish exchange controls, but during the presidency of Rafael Correa, in 2014 two key actions were taken, although they sound somewhat contradictory: prohibiting cryptocurrencies and creating your own.
+
+The Electronic Money System (SDE) was created in 2015 to channel Ecuadorians’ interest in cryptocurrencies. It is a kind of “official cryptocurrency”. Thereafter, its use became mandatory. However, since its inception, the “digital currency” of Ecuador has fallen into disuse.
+
+A long way ahead
+According to the previous scenario, there is still a long way to go in terms of regulation of cryptocurrencies in Latin America, because despite some progress, as in the case of Mexico, there are many blurred areas on the map and several countries in the region. The region does not even have a basic regulatory structure, while certain local governments maintain an ambivalent position in this respect, generating confusion.
+
+In this way, it is observed how regulators sometimes pass by in this situation, without promoting decrees that provide greater clarity to the public, while others establish restrictive frameworks with negative effects for development. In any case, the issue of global regulation is still in full outline, which offers Latin America greater chances to start charting its own path better.
